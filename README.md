@@ -1,2 +1,37 @@
-# plantilla_tp3_algo2
-Repositorio del equipo //EQUIPO//. El Sueño de La'ebb 1c2023.
+# El Sueño de La'ebb
+
+Trabajo Práctico 3 de Algoritmos y Programación 2 1c2023.
+
+### Integrantes del Grupo:
+
+1. APELLIDO, Nombre - Padrón.
+2. APELLIDO, Nombre - Padrón.
+3. APELLIDO, Nombre - Padrón.
+4. APELLIDO, Nombre - Padrón.
+
+### Corrector:
+
+//NOMBRE DEL CORRECTOR//
+
+## Compilación:
+
+El programa se puede compilar utilizando el **CMakeLists.txt** que está en el repositorio o bien ejecutando por consola:
+
+> g++ *.cpp -o programa.exe -Wall -Werror -Wconversion
+
+## RECOMENDACIONES: DESPUES PUEDEN SACAR ESTO.
+
+## Archivos fuente:
+
+En la carpeta src/ se pueden guardar los archivos .cpp del proyecto.
+
+En la carpeta include/ se pueden guardar los headers del proyecto.
+
+En la carpeta diagrams/ se pueden guardar los UML de clase.
+
+En la carpeta db/ (de database) se pueden guardar los archivos .txt y .csv.
+
+## .gitignore:
+
+El archivo .gitignore es un archivo que les permite ignorar automaticamente archivos que cumplan lo pedido (nombre,
+extension, carpeta, etc.). Usen e ignoren lo que consideren que necesitan tener en el repositorio a gusto.

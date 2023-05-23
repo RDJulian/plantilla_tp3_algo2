@@ -30,3 +30,15 @@
 *.exe
 *.out
 *.app
+
+# Carpetas de configuración de IDEs
+.vscode/
+.idea/
+
+# Carpetas de compilado de archivos
+cmake-build-debug/
+cmake-build-default/
+cmake-build/
+
+# Pueden declarar en cualquier lado lo que quieren ignorar, no son necesarios estos comentarios pero estan buenos para
+# ordenar. Si sin querer suben un archivo/carpeta, van a tener que usar el comando git rm.
