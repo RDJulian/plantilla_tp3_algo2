@@ -17,7 +17,7 @@ Trabajo Práctico 3 de Algoritmos y Programación 2 1c2023.
 
 El programa se puede compilar utilizando el **CMakeLists.txt** que está en el repositorio o bien ejecutando por consola:
 
-> g++ *.cpp -o programa.exe -Wall -Werror -Wconversion
+> g++ -I include src/*.cpp -o programa.exe -Wall -Werror -Wconversion
 
 ## Supuestos y consideraciones:
 
