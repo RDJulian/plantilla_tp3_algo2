@@ -19,7 +19,21 @@ El programa se puede compilar utilizando el **CMakeLists.txt** que está en el r
 
 > g++ *.cpp -o programa.exe -Wall -Werror -Wconversion
 
+## Supuestos y consideraciones:
+
+Se tomaron las siguientes decisiones con respecto a o por fuera de la consigna del Trabajo Práctico:
+
+1. LOREM
+2. IPSUM
+
 ## RECOMENDACIONES: DESPUES PUEDEN SACAR ESTO.
+
+## TODO:
+
+Cosas que faltan hacer:
+
+1. LOREM
+2. IPSUM
 
 ## Archivos fuente:
 
